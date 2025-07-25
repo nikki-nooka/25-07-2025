@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "83b4",
+      "title": "nikshith",
+      "views": "0"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "student": [
+    {
+      "id": "b98c",
+      "name": "mediverseuser",
+      "age": "123",
+      "branch": "cse",
+      "course": "B.Tech/CSE-AIML",
+      "fee": "8520"
+    }
+  ]
+}
