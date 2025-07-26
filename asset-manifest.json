@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nikki-nooka/25-07-2025/static/css/main.41215f20.css",
-    "main.js": "/nikki-nooka/25-07-2025/static/js/main.8dd71b01.js",
-    "static/js/453.b21a91d2.chunk.js": "/nikki-nooka/25-07-2025/static/js/453.b21a91d2.chunk.js",
-    "index.html": "/nikki-nooka/25-07-2025/index.html",
-    "main.41215f20.css.map": "/nikki-nooka/25-07-2025/static/css/main.41215f20.css.map",
-    "main.8dd71b01.js.map": "/nikki-nooka/25-07-2025/static/js/main.8dd71b01.js.map",
-    "453.b21a91d2.chunk.js.map": "/nikki-nooka/25-07-2025/static/js/453.b21a91d2.chunk.js.map"
+    "main.css": "/25-07-2025/static/css/main.41215f20.css",
+    "main.js": "/25-07-2025/static/js/main.0d8d814a.js",
+    "static/js/453.b21a91d2.chunk.js": "/25-07-2025/static/js/453.b21a91d2.chunk.js",
+    "index.html": "/25-07-2025/index.html",
+    "main.41215f20.css.map": "/25-07-2025/static/css/main.41215f20.css.map",
+    "main.0d8d814a.js.map": "/25-07-2025/static/js/main.0d8d814a.js.map",
+    "453.b21a91d2.chunk.js.map": "/25-07-2025/static/js/453.b21a91d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.41215f20.css",
-    "static/js/main.8dd71b01.js"
+    "static/js/main.0d8d814a.js"
   ]
 }
